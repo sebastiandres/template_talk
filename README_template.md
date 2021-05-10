@@ -4,4 +4,4 @@
 * **Resumen**: To be defined.
 * **Lugar**: TBU.
 * **Contexto**: ?
-* **Visualización**: [Diversas opciones](https://htmlpreview.github.io/?https://github.com/sebastiandres/talk_2021_10_pycon_espana/blob/main/index.html)
+* **Visualización**: [Diversas opciones](https://sebastiandres.github.io/talk_template/)

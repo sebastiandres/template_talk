@@ -31,3 +31,7 @@ conda env remove -n template
 
 ## Mostrar todos los ambientes
 conda env list
+
+## Actualizar index.html
+Reemplazar REPOSITORY por el nombre del repositorio.
+Recordar activar github pages en la rama principal y directorio principal.
