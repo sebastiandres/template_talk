@@ -1,1 +1,3 @@
-# charla-2020-12-pyday-cl
+rise
+pandas
+matplotlib

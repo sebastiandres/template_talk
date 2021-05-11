@@ -23,7 +23,8 @@ http://127.0.0.1:8000/template.slides.html
 Agregar "?print-pdf" al enlace
 http://127.0.0.1:8000/template.slides.html?print-pdf
 
-Guardar/Imprimir como PDF
+Puedes hacer los 2 al mismo tiempo, y ahora guardas como pdf (Ctrl/Cmmd+P):
+jupyter nbconvert --to slides template.ipynb --post serve; open http://127.0.0.1:8000/template.slides.html?print-pdf
 
 ## Borrar el ambiente
 conda deactivate
